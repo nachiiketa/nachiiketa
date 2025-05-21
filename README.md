@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New things
 - 🌱 I’m currently learning Linux system administration and bash scripting
 - 💞️ I’m looking to collaborate on open-source Linux tools and beginner-friendly scripting projects
-- 📫 How to reach me " https://github.com/nachiiketa "
+- 📫 How to reach me  https://github.com/nachiiketa 
 - ⚡ Fun fact: I can write bash scripts faster than I make coffee ☕
 
 <!---
